@@ -26,7 +26,7 @@ namespace ClassMethodDemo
 
             string newName = "Mustafa";
             string newLastName = "Çalışkan";
-            customerManager.UpdateCustomer(customer2,ref newName, ref newLastName);
+            customerManager.UpdateCustomer(customer2,newName,newLastName);
 
            
 
