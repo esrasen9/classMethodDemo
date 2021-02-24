@@ -52,6 +52,8 @@ namespace ClassMethodDemo
             customer.lastName = newLastName;
             Console.WriteLine("Güncel Ad:" + newFirstName);
             Console.WriteLine("Güncel Soyad:"+newLastName);
+            //Product referans tip bu yüzden bellekteki adresine gidip değeri güncellendi
+            //ref veya out ile müdaheleye gerek yok
         }
 
     }
