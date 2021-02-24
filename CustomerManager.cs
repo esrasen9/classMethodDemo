@@ -45,7 +45,7 @@ namespace ClassMethodDemo
 
         }
 
-        public void UpdateCustomer(Customer customer, ref string newFirstName, ref string newLastName)
+        public void UpdateCustomer(Customer customer, string newFirstName, string newLastName)
         {
             Console.WriteLine(customer.firstName + " "+ customer.lastName + " müşterisinin bilgileri güncellendi..." );
             customer.firstName = newFirstName;
