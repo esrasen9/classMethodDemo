@@ -1,0 +1,12 @@
+/Users/esra/Projects/ClassMethodDemo/ClassMethodDemo/obj/Debug/netcoreapp3.1/ClassMethodDemo.csprojAssemblyReference.cache
+/Users/esra/Projects/ClassMethodDemo/ClassMethodDemo/obj/Debug/netcoreapp3.1/ClassMethodDemo.AssemblyInfoInputs.cache
+/Users/esra/Projects/ClassMethodDemo/ClassMethodDemo/obj/Debug/netcoreapp3.1/ClassMethodDemo.AssemblyInfo.cs
+/Users/esra/Projects/ClassMethodDemo/ClassMethodDemo/obj/Debug/netcoreapp3.1/ClassMethodDemo.csproj.CoreCompileInputs.cache
+/Users/esra/Projects/ClassMethodDemo/ClassMethodDemo/bin/Debug/netcoreapp3.1/ClassMethodDemo.deps.json
+/Users/esra/Projects/ClassMethodDemo/ClassMethodDemo/bin/Debug/netcoreapp3.1/ClassMethodDemo.runtimeconfig.json
+/Users/esra/Projects/ClassMethodDemo/ClassMethodDemo/bin/Debug/netcoreapp3.1/ClassMethodDemo.runtimeconfig.dev.json
+/Users/esra/Projects/ClassMethodDemo/ClassMethodDemo/bin/Debug/netcoreapp3.1/ClassMethodDemo.dll
+/Users/esra/Projects/ClassMethodDemo/ClassMethodDemo/bin/Debug/netcoreapp3.1/ClassMethodDemo.pdb
+/Users/esra/Projects/ClassMethodDemo/ClassMethodDemo/obj/Debug/netcoreapp3.1/ClassMethodDemo.dll
+/Users/esra/Projects/ClassMethodDemo/ClassMethodDemo/obj/Debug/netcoreapp3.1/ClassMethodDemo.pdb
+/Users/esra/Projects/ClassMethodDemo/ClassMethodDemo/obj/Debug/netcoreapp3.1/ClassMethodDemo.genruntimeconfig.cache
